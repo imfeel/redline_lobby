@@ -1,0 +1,6 @@
+name: Lobby
+author: xFenilafs_
+main: ru.xfenilafs.lobby.Main
+version: 1.0.0
+depend:
+  - ApiManager
